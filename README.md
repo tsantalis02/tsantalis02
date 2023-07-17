@@ -3,7 +3,7 @@ My name is **Stergios Tsantalis**, everyone call me **Stergios**.
 - Currently 🎓 studying at [University of Macedonia - Applied Informatics](https://www.uom.gr/en/dai).
 - At the moment living in 📍Thessaloniki, Greece :greece:.
 - 🌱 I'm currently learning Python, you can see my progress [here](https://github.com/tsantalis02/Python).
-- You can reach me on <a href="mailto:st.tsantalis@gmail.com">st.tsantalis@gmail.com </a>
+- You can also reach me on <a href="mailto:st.tsantalis@gmail.com">st.tsantalis@gmail.com </a>
 - Write readable code 💻.
 - Proud member of [Univice](https://github.com/tsantalis02/Univice) team 🔝.
 - Awesome team player.
