@@ -16,7 +16,7 @@ My name is **Stergios Tsantalis**, everyone call me **Stergios**.
 
 <hr>
 <img height="200em" width="410vw" src="http://github-readme-streak-stats.herokuapp.com?user=tsantalis02&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D"> <br>
-
+<img height="220em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsantalis02&show_icons=true&locale=en&layout=compact&hide_border=true&theme=midnight-purple" alt="top-langs">
 
 
 <!--
