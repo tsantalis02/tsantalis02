@@ -1,8 +1,8 @@
 ## Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30" >
 My name is **Stergios Tsantalis**, everyone call me **Stergios**.
-- Currently 🎓 studying at [University of Macedonia - Applied Informatics](https://www.uom.gr/en/dai).
+- I'm a graduate of [University of Macedonia - Applied Informatics](https://www.uom.gr/en/dai). 🎓
 - At the moment living in 📍Thessaloniki, Greece :greece:.
-- 🌱 I'm currently learning Python, you can see my progress [here](https://github.com/tsantalis02/Python).
+- I'm currently working on some data analysis projects 📊, while I'm performing military service 🪖.  
 - You can also reach me on <a href="mailto:st.tsantalis@gmail.com">st.tsantalis@gmail.com </a>
 - Write readable code 💻.
 - Proud member of [Univice](https://github.com/tsantalis02/Univice) team 🔝.
